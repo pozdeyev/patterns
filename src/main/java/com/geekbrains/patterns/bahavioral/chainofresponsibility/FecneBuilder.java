@@ -1,7 +1,7 @@
-package com.geekbrains.createpatterns;
+package com.geekbrains.patterns.bahavioral.chainofresponsibility;
 
-public class FenceBuilder extends Builder {
-    public FenceBuilder() {
+public class FecneBuilder extends Builder {
+    public FecneBuilder() {
         super(HouseBuild.Steps.CREATE_FENCE);
     }
 
