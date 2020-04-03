@@ -1,4 +1,4 @@
-package com.geekbrains.createpatterns;
+package com.geekbrains.patterns.bahavioral.chainofresponsibility;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -21,3 +21,4 @@ public class HouseBuild {
         return steps;
     }
 }
+

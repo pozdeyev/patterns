@@ -1,4 +1,4 @@
-package com.geekbrains.createpatterns;
+package com.geekbrains.patterns.bahavioral.chainofresponsibility;
 
 public abstract class Builder {
     protected Builder nextBuilder;
